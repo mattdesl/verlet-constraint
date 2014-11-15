@@ -1,0 +1,45 @@
+{
+  "name": "verlet-constraint",
+  "version": "1.0.0",
+  "description": "a single constraint, useful in a verlet system",
+  "main": "2d.js",
+  "license": "MIT",
+  "author": {
+    "name": "Matt DesLauriers",
+    "email": "dave.des@gmail.com",
+    "url": "https://github.com/mattdesl"
+  },
+  "dependencies": {
+    "gl-matrix": "^2.1.0"
+  },
+  "devDependencies": {
+    "deepcopy": "^0.3.3",
+    "tape": "^3.0.3"
+  },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "verlet",
+    "physics",
+    "constraint",
+    "constrain",
+    "string",
+    "line",
+    "lines",
+    "fabric",
+    "cloth",
+    "material",
+    "soft",
+    "body",
+    "dynamic"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mattdesl/verlet-constraint.git"
+  },
+  "homepage": "https://github.com/mattdesl/verlet-constraint",
+  "bugs": {
+    "url": "https://github.com/mattdesl/verlet-constraint/issues"
+  }
+}
