@@ -1,6 +1,6 @@
 # verlet-constraint
 
-[![unstable](http://badges.github.io/stability-badges/dist/unstable.svg)](http://github.com/badges/stability-badges)
+[![stable](http://badges.github.io/stability-badges/dist/stable.svg)](http://github.com/badges/stability-badges)
 
 Creates a single 2D/3D constraint, useful in a [verlet physics system](https://github.com/mattdesl/verlet-system). 
 
