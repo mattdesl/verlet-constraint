@@ -22,11 +22,11 @@ var c = Constraint([ { position: [25, 25] }, { position: [50, 50], mass: 2 } ])
 c.solve()
 ```
 
-By default, assumes 2D. You can require an explicit dimension like so: 
+By default, assumes 2D and points with `[x, y]`. You can require an explicit dimension like so: 
 
 ```js
-var Constraint2D = require('verlet-constraint/2d')
-var Constraint3D = require('verlet-constraint/3d')
+var Constraint2D = require('verlet-constraint/2d') //points [x, y]
+var Constraint3D = require('verlet-constraint/3d') //points [x, y, z]
 ```
 
 ## Usage
