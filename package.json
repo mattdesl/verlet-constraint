@@ -1,6 +1,6 @@
 {
   "name": "verlet-constraint",
-  "version": "1.0.3",
+  "version": "1.1.0",
   "description": "a single constraint, useful in a verlet system",
   "main": "2d.js",
   "license": "MIT",
